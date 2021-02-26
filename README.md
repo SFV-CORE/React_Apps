@@ -21,11 +21,15 @@ Repositório destinado a guardar/mostrar aplicativos feitos em React-Native dura
 
    Este aplicativo mostra como usar imagens, botões, funções e um pouco de array.
 
+   <img src="Biscoito.gif" width="200" height="400" />
+
 2. Cronomêtro
 
    Não tem muito o que dizer sobre este, é um cronomêtro simples e funcional.
 
    Neste projeto ja conseguimos entender um pouco mais da estrutura e complexidade da linguagem bem como suas possiblidades.
+
+   <img src="Cronometro.gif" width="200" height="400" />
 
 3. BancoReact
 
