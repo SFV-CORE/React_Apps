@@ -8,6 +8,10 @@ Repositório destinado a guardar/mostrar aplicativos feitos em React-Native dura
 
 1. Biscoito da sorte
 2. Cronomêtro
+3. BancoReact
+4. Instagram
+5. Conversor de Moedas
+6. Buscador de CEP
 
 ## Lembrete
 
@@ -25,7 +29,7 @@ Repositório destinado a guardar/mostrar aplicativos feitos em React-Native dura
 
 2. Cronomêtro
 
-   Não tem muito o que dizer sobre este, é um cronomêtro simples e funcional.
+   Um cronomêtro bem legal e simples.
 
    Neste projeto ja conseguimos entender um pouco mais da estrutura e complexidade da linguagem bem como suas possiblidades.
 
@@ -46,3 +50,21 @@ Repositório destinado a guardar/mostrar aplicativos feitos em React-Native dura
    Simulando uma interface básica do instagram
 
    <img src="instagram.gif" width="200" height="400" />
+
+5. Conversor de Moedas
+
+   Quer saber quanto ta o dolar neste momento? Este app é perfeito para isso.
+
+   Usando a api Free Currency Convert, conseguimos converter Dolar para real em segundos!
+
+   <img src="Conversor.gif" width="200" height="400" />
+
+6. Buscador de CEP
+
+   Quer saber o endereço de um determinado CEP?
+
+   Usando a api ViaCep, conseguimos consultar qualquer CEP no país!
+
+   Com ele conseguimos saber qual a Cidade, Estado, o Nome da Rua e o Bairro!
+
+   <img src="BuscadorCep.gif" width="200" height="400" />
