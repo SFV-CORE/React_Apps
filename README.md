@@ -12,6 +12,7 @@ Repositório destinado a guardar/mostrar aplicativos feitos em React-Native dura
 4. Instagram
 5. Conversor de Moedas
 6. Buscador de CEP
+7. FirebaseApp
 
 ## Lembrete
 
@@ -68,3 +69,13 @@ Repositório destinado a guardar/mostrar aplicativos feitos em React-Native dura
    Com ele conseguimos saber qual a Cidade, Estado, o Nome da Rua e o Bairro!
 
    <img src="BuscadorCep.gif" width="200" height="400" />
+
+7. FirebaseApp
+
+   Um aplicativo de login que utiliza o firebase.
+
+   Implementando firebase, navigation e icons para melhor experiência.
+
+   Obs: para funcionar coloque sua api key no arquivo firebaseConnection, está sem por razões óbvias.
+
+   <img src="firebaseApp.gif" width="200" height="400" />
