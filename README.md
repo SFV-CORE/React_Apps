@@ -91,4 +91,4 @@ Repositório destinado a guardar/mostrar aplicativos feitos em React-Native dura
 
    Obs: para funcionar coloque sua api key no arquivo firebaseConnection, está sem por razões óbvias.
 
-   <img src="Tarefas.gif" width="200" height="400" />
+   
