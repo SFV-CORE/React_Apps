@@ -13,6 +13,7 @@ Repositório destinado a guardar/mostrar aplicativos feitos em React-Native dura
 5. Conversor de Moedas
 6. Buscador de CEP
 7. FirebaseApp
+8. Tarefas
 
 ## Lembrete
 
@@ -79,3 +80,15 @@ Repositório destinado a guardar/mostrar aplicativos feitos em React-Native dura
    Obs: para funcionar coloque sua api key no arquivo firebaseConnection, está sem por razões óbvias.
 
    <img src="firebaseApp.gif" width="200" height="400" />
+
+8. Tarefas
+
+   Um app fácil e rápido para guardar tarefas do dia a dia.
+
+   Usando como banco o firebase, guardamos todas as tarefas.
+
+   Também existe a opção de apagar e editar a tarefa!
+
+   Obs: para funcionar coloque sua api key no arquivo firebaseConnection, está sem por razões óbvias.
+
+   <img src="Tarefas.gif" width="200" height="400" />
