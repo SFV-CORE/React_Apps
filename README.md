@@ -18,6 +18,7 @@ Repositório destinado a guardar/mostrar aplicativos feitos em React-Native dura
 ## Lembrete
 
 - Design não está responsivo!
+- Infelizmente tive que retirar os gifs por não estarem reproduzindo... (;-;)
 
 ### Detalhes dos Aplicativos
 
@@ -27,15 +28,11 @@ Repositório destinado a guardar/mostrar aplicativos feitos em React-Native dura
 
    Este aplicativo mostra como usar imagens, botões, funções e um pouco de array.
 
-   <img src="Biscoito.gif" width="200" height="400" />
-
 2. Cronomêtro
 
    Um cronomêtro bem legal e simples.
 
    Neste projeto ja conseguimos entender um pouco mais da estrutura e complexidade da linguagem bem como suas possiblidades.
-
-   <img src="Cronometro.gif" width="200" height="400" />
 
 3. BancoReact
 
@@ -45,21 +42,15 @@ Repositório destinado a guardar/mostrar aplicativos feitos em React-Native dura
 
    O intuito deste projeto foi aprender a utilizar Slider, Picker e Swicth.
 
-   <img src="BancoReact.gif" width="200" height="400" />
-
 4. Instagram
 
    Simulando uma interface básica do instagram
-
-   <img src="instagram.gif" width="200" height="400" />
 
 5. Conversor de Moedas
 
    Quer saber quanto ta o dolar neste momento? Este app é perfeito para isso.
 
    Usando a api Free Currency Convert, conseguimos converter Dolar para real em segundos!
-
-   <img src="Conversor.gif" width="200" height="400" />
 
 6. Buscador de CEP
 
@@ -69,8 +60,6 @@ Repositório destinado a guardar/mostrar aplicativos feitos em React-Native dura
 
    Com ele conseguimos saber qual a Cidade, Estado, o Nome da Rua e o Bairro!
 
-   <img src="BuscadorCep.gif" width="200" height="400" />
-
 7. FirebaseApp
 
    Um aplicativo de login que utiliza o firebase.
@@ -78,8 +67,6 @@ Repositório destinado a guardar/mostrar aplicativos feitos em React-Native dura
    Implementando firebase, navigation e icons para melhor experiência.
 
    Obs: para funcionar coloque sua api key no arquivo firebaseConnection, está sem por razões óbvias.
-
-   <img src="firebaseApp.gif" width="200" height="400" />
 
 8. Tarefas
 
@@ -90,5 +77,3 @@ Repositório destinado a guardar/mostrar aplicativos feitos em React-Native dura
    Também existe a opção de apagar e editar a tarefa!
 
    Obs: para funcionar coloque sua api key no arquivo firebaseConnection, está sem por razões óbvias.
-
-   
