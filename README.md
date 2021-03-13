@@ -18,7 +18,6 @@ Repositório destinado a guardar/mostrar aplicativos feitos em React-Native dura
 ## Lembrete
 
 - Design não está responsivo!
-- Infelizmente tive que retirar os gifs por não estarem reproduzindo... (;-;)
 
 ### Detalhes dos Aplicativos
 
@@ -91,3 +90,5 @@ Repositório destinado a guardar/mostrar aplicativos feitos em React-Native dura
    Também existe a opção de apagar e editar a tarefa!
 
    Obs: para funcionar coloque sua api key no arquivo firebaseConnection, está sem por razões óbvias.
+
+   <img src="Tarefas.gif" width="200" height="400" />
