@@ -28,6 +28,8 @@ Repositório destinado a guardar/mostrar aplicativos feitos em React-Native dura
 
    Este aplicativo mostra como usar imagens, botões, funções e um pouco de array.
 
+   <img src="Biscoito.gif" width="200" height="400" />
+
 2. Cronomêtro
 
    Um cronomêtro bem legal e simples.
