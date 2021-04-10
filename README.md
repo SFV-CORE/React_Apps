@@ -7,13 +7,14 @@ Repositório destinado a guardar/mostrar aplicativos feitos em React-Native dura
 ## Aplicativos já feitos
 
 1. Biscoito da sorte
-2. Cronomêtro
+2. Cronômetro
 3. BancoReact
 4. Instagram
 5. Conversor de Moedas
 6. Buscador de CEP
 7. FirebaseApp
 8. Tarefas
+9. Finanças
 
 ## Lembrete
 
@@ -29,9 +30,9 @@ Repositório destinado a guardar/mostrar aplicativos feitos em React-Native dura
 
    <img src="Biscoito.gif" width="200" height="400" />
 
-2. Cronomêtro
+2. Cronômetro
 
-   Um cronomêtro bem legal e simples.
+   Um cronômetro bem legal e simples.
 
    Neste projeto ja conseguimos entender um pouco mais da estrutura e complexidade da linguagem bem como suas possiblidades.
 
@@ -92,3 +93,17 @@ Repositório destinado a guardar/mostrar aplicativos feitos em React-Native dura
    Obs: para funcionar coloque sua api key no arquivo firebaseConnection, está sem por razões óbvias.
 
    <img src="Tarefas.gif" width="200" height="400" />
+
+9. Finanças
+
+   Por que não fazer seu próprio app para controlar seus gastos?
+
+   Este app é exatamente isso, com design simples e moderno, ele trás tudo o que você precisa.
+
+   Criar contas, registar novos gastos, apagar movimentações(dentro de 1 dia) e filtrar a lista de movimentações pelo calendário!
+
+   Neste projeto, apliquei quase tudo que aprendi no curso, é muito legal!
+
+   Obs: para funcionar coloque sua api key no arquivo firebaseConnection, está sem por razões óbvias.
+
+   <img src="financas.gif" width="200" height="400" />
